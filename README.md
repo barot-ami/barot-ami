@@ -2,7 +2,7 @@
 
 
 [![Linkedin Badge]https://www.linkedin.com/in/ami-barot-348393213/
-[![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.akash)
+
 https://stackoverflow.com/users/18291187/ami-barot?tab=profile
 
 I'm
