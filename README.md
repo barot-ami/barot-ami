@@ -1,7 +1,6 @@
 ### Hi Developers 👋
 
-
-[![Linkedin Badge] https://www.linkedin.com/in/ami-barot-348393213/
+https://www.linkedin.com/in/ami-barot-348393213/
 https://barot-ami.github.io/amiprofile/
 
 https://stackoverflow.com/users/18291187/ami-barot?tab=profile
